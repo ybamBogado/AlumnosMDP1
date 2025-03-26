@@ -1,0 +1,15 @@
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.GeneratedMSBuildEditorConfig.editorconfig
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.AssemblyInfoInputs.cache
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.AssemblyInfo.cs
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.csproj.CoreCompileInputs.cache
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.sourcelink.json
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\bin\Debug\net8.0\Persona-Alumno-P1.exe
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\bin\Debug\net8.0\Persona-Alumno-P1.deps.json
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\bin\Debug\net8.0\Persona-Alumno-P1.runtimeconfig.json
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\bin\Debug\net8.0\Persona-Alumno-P1.dll
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\bin\Debug\net8.0\Persona-Alumno-P1.pdb
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.dll
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\refint\Persona-Alumno-P1.dll
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.pdb
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\Persona-Alumno-P1.genruntimeconfig.cache
+F:\informatica proyectos\C# Algoritmos\MP_TP1\Persona-Alumno-P1\Persona-Alumno-P1\obj\Debug\net8.0\ref\Persona-Alumno-P1.dll

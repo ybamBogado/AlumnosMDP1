@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\comparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\comparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\coleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\coleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|f:\\informatica proyectos\\c# algoritmos\\mp_tp1\\persona-alumno-p1\\persona-alumno-p1\\coleccionmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F045804-E411-436F-BCC7-A05A36AFD100}|Persona-Alumno-P1\\Persona-Alumno-P1.csproj|solutionrelative:persona-alumno-p1\\coleccionmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Cola.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\Cola.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Cola.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\Cola.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:32:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "comparable.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\comparable.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\comparable.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\comparable.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\comparable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:44:47.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColeccionMultiple.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\ColeccionMultiple.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\ColeccionMultiple.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\ColeccionMultiple.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\ColeccionMultiple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T19:21:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Pila.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\Pila.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Pila.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\Pila.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:58:42.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coleccionable.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Coleccionable.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\Coleccionable.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Coleccionable.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\Coleccionable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T16:53:55.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Alumno.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\Alumno.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Alumno.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\Alumno.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:48:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\Persona.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Persona.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\Persona.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:30:07.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Program.cs",
+              "RelativeDocumentMoniker": "Persona-Alumno-P1\\Program.cs",
+              "ToolTip": "F:\\informatica proyectos\\C# Algoritmos\\MP_TP1\\Persona-Alumno-P1\\Persona-Alumno-P1\\Program.cs",
+              "RelativeToolTip": "Persona-Alumno-P1\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T14:20:48.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
